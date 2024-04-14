@@ -1,3 +1,11 @@
-header {background-color: bisque;}
-h2 {color: blue;background-color: black;}
-h3 {color: aliceblue;background-color: black;}
+header {
+  background-color: bisque;
+}
+h2 {
+  color: blue;
+  background-color: black;
+}
+h3 {
+  color: aliceblue;
+  background-color: black;
+}
